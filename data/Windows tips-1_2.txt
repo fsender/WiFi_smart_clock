@@ -1,0 +1,32 @@
+Windows 徽标键
+Windows徽标键就是显示为Windows旗帜，或标有文字Win或Windows的按键:
+Windows 徽标键—— 打开或关闭“开始”菜单。
+Windows 徽标键 + Pause——显示“系统属性”对话框。
+Windows 徽标键 + D——显示桌面(xp/vista通用)
+Windows 徽标键 + M——最小化所有窗口。(xp/vista通用)
+Windows 徽标键 + Shift + M ——将最小化的窗口还原到桌面。
+Windows 徽标键 + E ——打开计算机。(xp/vista通用，xp为打开“我的电脑”)
+Windows 徽标键 + F ——搜索文件或文件夹。
+Ctrl + Windows 徽标键 + F ——搜索计算机（如果已连接到网络）。
+Windows 徽标键 + L ——锁定计算机。
+Windows 徽标键 + R ——打开“运行”对话框。
+Windows 徽标键 + T—— 循环切换任务栏上的程序。
+Windows 徽标键 + 数字 —— 启动锁定到任务栏中的由该数字所表示位置处的程序。如果该程序已在运行，则切换到该程序。
+Shift Windows 徽标键 + 数字 —— 启动锁定到任务栏中的由该数字所表示位置处的程序的新实例。
+Ctrl + Windows 徽标键 + 数字 ——切换到锁定到任务栏中的由该数字所表示位置处的程序的最后一个活动窗口。
+Alt + Windows 徽标键 + 数字 —— 打开锁定到任务栏中的由该数字所表示位置处的程序的跳转列表。
+Windows 徽标键 + Tab—— 使用 Aero Flip 3-D 循环切换任务栏上的程序。
+Ctrl + Windows 徽标键 + Tab ——通过 Aero Flip 3-D 使用箭头键循环切换任务栏上的程序。
+Ctrl + Windows 徽标键 + B ——切换到在通知区域中显示消息的程序。
+Windows 徽标键 +空格键——预览桌面。
+Windows 徽标键 + 向上键—— 最大化窗口。
+Windows 徽标键 + 向左键——将窗口最大化到屏幕的左侧。
+Windows 徽标键 + 向右键——将窗口最大化到屏幕的右侧。
+Windows 徽标键 + 向下键——向下还原窗口。
+Windows 徽标键 + Home ——最小化除活动窗口之外的所有窗口。
+Windows 徽标键 + Shift + 向上键 ——将窗口拉伸到屏幕的顶部和底部。
+Windows 徽标键 + Shift + 向左键或向右键 ——将窗口从一个监视器移动到另一个监视器。
+Windows 徽标键 + P ——选择演示显示模式。
+Windows 徽标键 + G ——循环切换小工具。
+Windows 徽标键 + U ——打开轻松访问中心。（xp为“辅助工具”）
+Windows 徽标键 + X 打开 Windows 移动中心。
